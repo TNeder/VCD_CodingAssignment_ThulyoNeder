@@ -1,1 +1,3 @@
 # VCD_CodingAssignment_ThulyoNeder
+Thulyo Neder
+s2310787014
